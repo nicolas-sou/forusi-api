@@ -23,7 +23,7 @@ export default function handler(req, res) {
     ,
     {
       id: 3,
-      imagem: "https://forusi-api.vercel.app/imagens/cabide-simples-curve-cromado.jpg",
+      imagem: "https://forusi-api.vercel.app/imagens/cabide-simples-parede-curve-cromado.jpg",
       nome: "Cabide Simples Curve Cromado",
       descricao: "Descrição do produto."
     },
@@ -66,6 +66,18 @@ export default function handler(req, res) {
     {
       id: 10,
       imagem: "https://forusi-api.vercel.app/imagens/torneira-cozinha-filtro-parede-mega-line-c-arejador-articulavel-1.4-de-volta.png",
+      nome: "Torneira Cozinha Filtro Parede Mega Line c/ Arejador Articulável 1.4 de Volta",
+      descricao: "Descrição do produto."
+    },
+    {
+      id: 11,
+      imagem: "https://forusi-api.vercel.app/imagens/monocomando-cozinha-mesa-inox-escovado.jpg",
+      nome: "Monocomando Cozinha Mesa Inox Escovado",
+      descricao: "Descrição do produto."
+    },
+    {
+      id: 12,
+      imagem: "https://forusi-api.vercel.app/imagens/monocomando-cozinha-mesa-gourmet-com-ducha-extensiva-black-matte.jpg",
       nome: "Torneira Cozinha Filtro Parede Mega Line c/ Arejador Articulável 1.4 de Volta",
       descricao: "Descrição do produto."
     }
