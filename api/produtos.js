@@ -10,13 +10,13 @@ export default function handler(req, res) {
   res.status(200).json([
     {
       id: 1,
-      imagem: "/imagens/ACABAMENTO PARA REGISTRO.jpg",
+      imagem: "https://forusi-api.vercel.app/imagens/acabamento-para-registro.jpg",
       nome: "Acabamento Para Registro",
       descricao: "Descrição do produto Acabamento Para Registro."
     },
     {
       id: 2,
-      imagem: "/imagens/CABIDE DUPLO CURVE CROMADO.jpg",
+      imagem: "https://forusi-api.vercel.app/imagens/cabide-duplo-curve-cromado.jpg",
       nome: "Cabide Duplo Curve Cromado",
       descricao: "Descrição do produto Cabide Duplo Curve Cromado."
     }
