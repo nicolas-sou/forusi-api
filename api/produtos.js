@@ -10,79 +10,90 @@ export default function handler(req, res) {
   res.status(200).json([
     {
       id: 1,
-      imagem: "https://forusi-api.vercel.app/imagens/acabamento-para-registro.jpg",
-      nome: "Acabamento Para Registro",
+      imagem: "https://forusi-api.vercel.app/imagens/9.11.0815.35.png",
+      Cod: "9.11.0815.35",
+      nome: "Torneira lavatório Mesa CI/JR UP Cuba de Apoio GRAFITE 20cm",
       descricao: "Descrição do produto.",
       categoria: "Metais Sanitários"
     },
     {
       id: 2,
-      imagem: "https://forusi-api.vercel.app/imagens/cabide-duplo-curve-cromado.jpg",
-      nome: "Cabide Duplo Curve Cromado",
+      imagem: "https://forusi-api.vercel.app/imagens/9.11.0814.35.png",
+      Cod: "9.11.0814.35",
+      nome: "Torneira lavatório Mesa CI/JR Cuba de Apoio GRAFITE 24cm",
       descricao: "Descrição do produto.",
       categoria: "Metais Sanitários"
     }
     ,
     {
       id: 3,
-      imagem: "https://forusi-api.vercel.app/imagens/cabide-simples-parede-curve-cromado.jpg",
-      nome: "Cabide Simples Curve Cromado",
+      imagem: "https://forusi-api.vercel.app/imagens/9.11.0906.35.png",
+      Cod: "9.11.0906.35",
+      nome: "Torneira lavatório Mesa CI/JR Cuba de Apoio GRAFITE 28cm",
       descricao: "Descrição do produto.",
       categoria: "Metais Sanitários"
     },
     {
       id: 4,
-      imagem: "https://forusi-api.vercel.app/imagens/ducha-higienica-curve-com-derivacao.jpg",
-      nome: "Ducha Higiênica Curve com Derivação",
+      imagem: "https://forusi-api.vercel.app/imagens/9.11.0907.35.png",
+      Cod: "9.11.0907.35",
+      nome: "Torneira lavatório Mesa CI/JR UP Real Cuba GRAFITE 24cm",
       descricao: "Descrição do produto.",
       categoria: "Metais Sanitários"
     },
     {
       id: 5,
-      imagem: "https://forusi-api.vercel.app/imagens/ducha-higienica-sml.jpg",
-      nome: "Ducha Higiênica SML",
+      imagem: "https://forusi-api.vercel.app/imagens/9.11.0989.35.png",
+      Cod: "9.11.0989.35",
+      nome: "Torneira lavatório BM Bela Luna Grafite 1/4, 1/2",
       descricao: "Descrição do produto.",
       categoria: "Metais Sanitários"
     },
     {
       id: 6,
-      imagem: "https://forusi-api.vercel.app/imagens/kit-instalacao-ar-condicionado-3metros.jpg",
-      nome: "Kit Instalação Ar Condicionado 3 Metros",
+      imagem: "https://forusi-api.vercel.app/imagens/9.11.0991.35.png",
+      Cod: "9.11.0991.35",
+      nome: "Torneira lavatório BM Treviso Grafite 1/4, 1/2",
       descricao: "Descrição do produto.",
       categoria: "Metais Sanitários"
     },
     {
       id: 7,
-      imagem: "https://forusi-api.vercel.app/imagens/torneira-tanque.png",
-      nome: "Torneira Tanque",
+      imagem: "https://forusi-api.vercel.app/imagens/9.11.0997.35.png",
+      Cod: "9.11.0997.35",
+      nome: "Torneira lavatório BM Clock CR 1/4, 1/2",
       descricao: "Descrição do produto.",
       categoria: "Metais Sanitários"
     },
     {
       id: 8,
-      imagem: "https://forusi-api.vercel.app/imagens/torneira-lavatorio-mesa-mega-line-black-fosco.jpg",
-      nome: "Torneira Lavatório Mesa Mega Line Black Fosco",
+      imagem: "https://forusi-api.vercel.app/imagens/9.27.0115.35.png",
+      Cod: "9.27.0115.35",
+      nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva Grafite 50cm",
       descricao: "Descrição do produto.",
       categoria: "Metais Sanitários"
     },
     {
       id: 9,
-      imagem: "https://forusi-api.vercel.app/imagens/torneira-lavatorio-bica-movel-mesa.png",
-      nome: "Kit Instalação Ar Condicionado 10 Metros",
+      imagem: "https://forusi-api.vercel.app/imagens/9.27.0118.35.png",
+      Cod: "9.27.0118.35",
+      nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva Grafite 70cm",
       descricao: "Descrição do produto.",
       categoria: "Metais Sanitários"
     },
     {
       id: 10,
-      imagem: "https://forusi-api.vercel.app/imagens/torneira-cozinha-filtro-parede-mega-line-c-arejador-articulavel-1.4-de-volta.png",
-      nome: "Torneira Cozinha Filtro Parede Mega Line c/ Arejador Articulável 1.4 de Volta",
+      imagem: "https://forusi-api.vercel.app/imagens/9.27.0115.25.png",
+      Cod: "9.27.0115.35",
+      nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva 50cm",
       descricao: "Descrição do produto.",
       categoria: "Metais Sanitários"
     },
     {
       id: 11,
-      imagem: "https://forusi-api.vercel.app/imagens/monocomando-cozinha-mesa-inox-escovado.jpg",
-      nome: "Monocomando Cozinha Mesa Inox Escovado",
+      imagem: "https://forusi-api.vercel.app/imagens/9.27.0118.25.png",
+      Cod: "9.27.0118.35",
+      nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva 70cm",
       descricao: "Descrição do produto.",
       categoria: "Metais Sanitários"
     },
@@ -135,6 +146,14 @@ export default function handler(req, res) {
       nome: "Filtro de Linha",
       descricao: "Descrição do produto.",
       categoria: "Materiais Elétricos"
+    }
+    ,
+    {
+      id: 19,
+      imagem: "https://forusi-api.vercel.app/imagens/forro-preto.jpg",
+      nome: "Forro Preto",
+      descricao: "Descrição do produto.",
+      categoria: "Forros de PVC"
     }
   ]);
 }
