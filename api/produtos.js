@@ -67,7 +67,7 @@ export default function handler(req, res) {
     },
     {
       id: 8,
-      imagem: "https://forusi-api.vercel.app/imagens/9.27.0115.35.png",
+      imagem: "https://forusi-api.vercel.app/imagens/9.27.0115.18.png",
       Cod: "9.27.0115.35",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva Grafite 50cm",
       descricao: "Descrição do produto.",
@@ -75,7 +75,7 @@ export default function handler(req, res) {
     },
     {
       id: 9,
-      imagem: "https://forusi-api.vercel.app/imagens/9.27.0118.35.png",
+      imagem: "https://forusi-api.vercel.app/imagens/9.27.0118.18.png",
       Cod: "9.27.0118.35",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva Grafite 70cm",
       descricao: "Descrição do produto.",
@@ -83,7 +83,7 @@ export default function handler(req, res) {
     },
     {
       id: 10,
-      imagem: "https://forusi-api.vercel.app/imagens/9.27.0115.25.png",
+      imagem: "https://forusi-api.vercel.app/imagens/9.27.0115.25.jpg",
       Cod: "9.27.0115.35",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva 50cm",
       descricao: "Descrição do produto.",
@@ -91,7 +91,7 @@ export default function handler(req, res) {
     },
     {
       id: 11,
-      imagem: "https://forusi-api.vercel.app/imagens/9.27.0118.25.png",
+      imagem: "https://forusi-api.vercel.app/imagens/9.27.0118.25.jpg",
       Cod: "9.27.0118.35",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva 70cm",
       descricao: "Descrição do produto.",
