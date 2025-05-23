@@ -10,7 +10,7 @@ export default function handler(req, res) {
   res.status(200).json([
     {
       id: 1,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/9.11.0815.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/9.11.0815.35.png",
       Cod: "9.11.0815.35",
       nome: "Torneira lavatório Mesa CI/JR UP Cuba de Apoio GRAFITE 20cm",
       descricao: "Descrição do produto.",
@@ -18,7 +18,7 @@ export default function handler(req, res) {
     },
     {
       id: 2,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/9.11.0814.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/9.11.0814.35.png",
       Cod: "9.11.0814.35",
       nome: "Torneira lavatório Mesa CI/JR Cuba de Apoio GRAFITE 24cm",
       descricao: "Descrição do produto.",
@@ -27,7 +27,7 @@ export default function handler(req, res) {
     ,
     {
       id: 3,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/9.11.0906.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/9.11.0906.35.png",
       Cod: "9.11.0906.35",
       nome: "Torneira lavatório Mesa CI/JR Cuba de Apoio GRAFITE 28cm",
       descricao: "Descrição do produto.",
@@ -35,7 +35,7 @@ export default function handler(req, res) {
     },
     {
       id: 4,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/9.11.0907.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/9.11.0907.35.png",
       Cod: "9.11.0907.35",
       nome: "Torneira lavatório Mesa CI/JR UP Real Cuba GRAFITE 24cm",
       descricao: "Descrição do produto.",
@@ -43,7 +43,7 @@ export default function handler(req, res) {
     },
     {
       id: 5,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/9.11.0989.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/9.11.0989.35.png",
       Cod: "9.11.0989.35",
       nome: "Torneira lavatório Bella Luna Grafite",
       descricao: "Descrição do produto.",
@@ -51,7 +51,7 @@ export default function handler(req, res) {
     },
     {
       id: 6,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/9.11.0991.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/9.11.0991.35.png",
       Cod: "9.11.0991.35",
       nome: "Torneira lavatório Bella Luna Grafite",
       descricao: "Descrição do produto.",
@@ -59,7 +59,7 @@ export default function handler(req, res) {
     },
     {
       id: 7,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/9.11.0997.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/9.11.0997.35.png",
       Cod: "9.11.0997.35",
       nome: "Torneira lavatório Clock",
       descricao: "Descrição do produto.",
@@ -67,7 +67,7 @@ export default function handler(req, res) {
     },
     {
       id: 8,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Acessorios/9.01.0504.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Acessorios/9.01.0504.35.png",
       Cod: "9.01.0504.35",
       nome: "Saboneteira Parede Pieno Grafite",
       descricao: "Descrição do produto.",
@@ -76,7 +76,7 @@ export default function handler(req, res) {
     },
     {
       id: 9,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Acessorios/9.01.0505.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Acessorios/9.01.0505.35.png",
       Cod: "9.01.0505.35",
       nome: "Cabide Pieno Grafite",
       descricao: "Descrição do produto.",
@@ -85,7 +85,7 @@ export default function handler(req, res) {
     },
     {
       id: 10,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Acessorios/9.01.0506.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Acessorios/9.01.0506.35.png",
       Cod: "9.01.0506.35",
       nome: "Papeleira Pieno Grafite",
       descricao: "Descrição do produto.",
@@ -94,7 +94,7 @@ export default function handler(req, res) {
     },
     {
       id: 11,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Acessorios/9.01.0508.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Acessorios/9.01.0508.35.png",
       Cod: "9.01.0508.35",
       nome: "Porta Toalha Pieno Grafite",
       descricao: "Descrição do produto.",
@@ -103,7 +103,7 @@ export default function handler(req, res) {
     },
     {
       id: 12,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Acessorios/9.01.0512.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Acessorios/9.01.0512.35.png",
       Cod: "9.01.0512.35",
       nome: "Cabide Duplo Pieno Grafite",
       descricao: "Descrição do produto.",
@@ -112,7 +112,7 @@ export default function handler(req, res) {
     },
     {
       id: 13,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Acessorios/9.01.0509.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Acessorios/9.01.0509.35.png",
       Cod: "9.01.0509.35",
       nome: "Porta Toalha Pieno Grafite",
       descricao: "Descrição do produto.",
@@ -121,7 +121,7 @@ export default function handler(req, res) {
     },
     {
       id: 14,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Acessorios/9.01.0511.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Acessorios/9.01.0511.35.png",
       Cod: "9.01.0511.35",
       nome: "Porta Shampoo Pieno Grafite",
       descricao: "Descrição do produto.",
@@ -130,7 +130,7 @@ export default function handler(req, res) {
     },
     {
       id: 15,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Acabamentos/9.12.0154.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Acabamentos/9.12.0154.35.png",
       Cod: "9.12.0154.355",
       nome: "Acabamento Bela Luna Grafite",
       descricao: "Descrição do produto.",
@@ -139,7 +139,7 @@ export default function handler(req, res) {
     },
     {
       id: 16,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Acabamentos/9.12.0156.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Acabamentos/9.12.0156.35.png",
       Cod: "9.12.0156.35",
       nome: "Acabamento Treviso Grafite",
       descricao: "Descrição do produto.",
@@ -148,7 +148,7 @@ export default function handler(req, res) {
     },
     {
       id: 17,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Acabamentos/9.12.0158.35.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Acabamentos/9.12.0158.35.png",
       Cod: "9.12.0158.35",
       nome: "Acabamento clock Grafite",
       descricao: "Descrição do produto.",
@@ -157,7 +157,7 @@ export default function handler(req, res) {
     },
     {
       id: 18,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Monocomando/9.27.0115.18.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Monocomando/9.27.0115.18.png",
       Cod: "9.27.0115.18",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva",
       descricao: "Descrição do produto.",
@@ -165,7 +165,7 @@ export default function handler(req, res) {
     },
     {
       id: 19,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Monocomando/9.27.0118.18.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Monocomando/9.27.0118.18.png",
       Cod: "9.27.0118.18",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva",
       descricao: "Descrição do produto.",
@@ -173,7 +173,7 @@ export default function handler(req, res) {
     },
     {
       id: 20,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Monocomando/9.27.0115.25.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Monocomando/9.27.0115.25.png",
       Cod: "9.27.0117.18",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva",
       descricao: "Descrição do produto.",
@@ -181,7 +181,7 @@ export default function handler(req, res) {
     },
     {
       id: 21,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Grafite/Monocomando/9.27.0118.25.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Monocomando/9.27.0118.25.png",
       Cod: "9.27.0118.25",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva",
       descricao: "Descrição do produto.",
@@ -316,7 +316,7 @@ export default function handler(req, res) {
     },
     {
       id: 40,
-      imagem: "https://forusi-api.vercel.app/img/Pistolas/07.9.60.0091.18.png",
+      imagem: "https://forusi-api.vercel.app/img/Pistolas/07.9.60.0091.23.png",
       nome: "Pistola Alta Produção Sucção Profissional ",
       descricao: "Descrição do produto.",
       categoria: "Pistolas para Pintura",
@@ -414,14 +414,14 @@ export default function handler(req, res) {
     },
     {
       id: 54,
-      imagem: "https://forusi-api.vercel.app/img/Forro/U.png",
+      imagem: "https://forusi-api.vercel.app/img/Forro/u.png",
       nome: "Roda forro perfil “u”",
       descricao: "Descrição do produto.",
       categoria: "Forros de PVC",
     },
     {
       id: 55,
-      imagem: "https://forusi-api.vercel.app/img/Forro/H.png",
+      imagem: "https://forusi-api.vercel.app/img/Forro/h.png",
       nome: "Emenda perfil “h”",
       descricao: "Descrição do produto.",
       categoria: "Forros de PVC",
@@ -519,14 +519,14 @@ export default function handler(req, res) {
     },
     {
       id: 69,
-      imagem: "https://forusi-api.vercel.app/img/Plugues-Cabos/Conector-infformatica.png",
+      imagem: "https://forusi-api.vercel.app/img/Plugues-Cabos/Conector-Informatica.png",
       nome: "Conector Para Informática",
       descricao: "Descrição do produto.",
       categoria: "Plugues e Conectores",
     },
     {
       id: 70,
-      imagem: "https://forusi-api.vercel.app/img/Plugues-Cabos/Conector-informatica-180.png",
+      imagem: "https://forusi-api.vercel.app/img/Plugues-Cabos/Conector-Informatica-180.png",
       nome: "Conector Para Informática 180°",
       descricao: "Descrição do produto.",
       categoria: "Plugues e Conectores",
