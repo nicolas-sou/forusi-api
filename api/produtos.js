@@ -157,7 +157,7 @@ export default function handler(req, res) {
     },
     {
       id: 18,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Monocomando/9.27.0115.18.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0115.18.png",
       Cod: "9.27.0115.18",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva",
       descricao: "Descrição do produto.",
@@ -165,7 +165,7 @@ export default function handler(req, res) {
     },
     {
       id: 19,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Monocomando/9.27.0118.18.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0118.18.png",
       Cod: "9.27.0118.18",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva",
       descricao: "Descrição do produto.",
@@ -173,7 +173,7 @@ export default function handler(req, res) {
     },
     {
       id: 20,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Monocomando/9.27.0115.25.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0115.25.png",
       Cod: "9.27.0117.18",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva",
       descricao: "Descrição do produto.",
@@ -181,7 +181,7 @@ export default function handler(req, res) {
     },
     {
       id: 21,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Grafite/Monocomando/9.27.0118.25.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0118.25.png",
       Cod: "9.27.0118.25",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva",
       descricao: "Descrição do produto.",
@@ -224,14 +224,14 @@ export default function handler(req, res) {
     },
     {
       id: 27,
-      imagem: "https://forusi-api.vercel.app/img/Ducha/Stilo-Branca.png",
-      nome: "Ducha Stilo",
+      imagem: "https://forusi-api.vercel.app/img/Ducha/Stilo-branca.png",
+      nome: "Ducha Stilo Branca",
       descricao: "Descrição do produto.",
       categoria: "Chuveiros e Torneiras Elétricas",
     },
     {
       id: 28,
-      imagem: "https://forusi-api.vercel.app/img/Ducha/kit-Ducha-Stilo.png",
+      imagem: "https://forusi-api.vercel.app/img/Ducha/Kit-Ducha-Stilo.png",
       nome: "Kit Ducha Stilo",
       descricao: "Descrição do produto.",
       categoria: "Chuveiros e Torneiras Elétricas",
@@ -239,7 +239,7 @@ export default function handler(req, res) {
     {
       id: 29,
       imagem: "https://forusi-api.vercel.app/img/Ducha/Kit-Ducha-Stilo-Branca.png",
-      nome: "Kit Ducha Stilo",
+      nome: "Kit Ducha Stilo Branca",
       descricao: "Descrição do produto.",
       categoria: "Chuveiros e Torneiras Elétricas",
     },
