@@ -173,7 +173,7 @@ export default function handler(req, res) {
     },
     {
       id: 20,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0115.25.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0115.25.jpg",
       Cod: "9.27.0117.18",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva",
       descricao: "Descrição do produto.",
@@ -181,7 +181,7 @@ export default function handler(req, res) {
     },
     {
       id: 21,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0118.25.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0118.25.jpg",
       Cod: "9.27.0118.25",
       nome: "Monocomando Cozinha Mesa Duo Gourmet com Ducha Extensiva",
       descricao: "Descrição do produto.",
