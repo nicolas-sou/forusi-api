@@ -252,8 +252,8 @@ export default function handler(req, res) {
     },
     {
       id: 31,
-      imagem: "https://forusi-api.vercel.app/img/Ducha/Braco-de-Chuveiro-Branca.png",
-      nome: "Braço de Chuveiro",
+      imagem: "https://forusi-api.vercel.app/img/Ducha/Braco-de-Chuveiro-Branco.png",
+      nome: "Braço de Chuveiro Bran",
       descricao: "Descrição do produto.",
       categoria: "Chuveiros e Torneiras Elétricas",
     },
