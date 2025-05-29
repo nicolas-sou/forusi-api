@@ -579,5 +579,23 @@ export default function handler(req, res) {
       descricao: "Descrição do produto.",
       categoria: "Plugues e Conectores",
     },
+    {
+      id: 78,
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Lançamentos/9.11.1150.07.png",
+      Cod: "9.11.1150.07",
+      "lancamento": true,
+      nome: "Torneira Gourmet Parede Inox Escovado",
+      descricao: "Descrição do produto.",
+      categoria: "Metais Sanitários",
+    },
+    {
+      id: 79,
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Lançamentos/9.11.1151.07.png",
+      Cod: "9.11.1151.07",
+      "lancamento": true,
+      nome: "Torneira Gourmet Mesa Inox Escovado",
+      descricao: "Descrição do produto.",
+      categoria: "Metais Sanitários",
+    },
   ]);
 }
