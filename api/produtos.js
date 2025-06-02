@@ -599,7 +599,7 @@ export default function handler(req, res) {
     },
     {
       id: 80,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Lançamentos/Monocomando/9.27.0111.25.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0111.25.png",
       Cod: "9.27.0111.25",
       "lancamento": true,
       nome: "Monocomando Cozinha Mesa Mega Line",
@@ -608,7 +608,7 @@ export default function handler(req, res) {
     },
     {
       id: 81,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Lançamentos/Monocomando/9.27.0110.25.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0110.25.png",
       Cod: "9.27.0110.25",
       "lancamento": true,
       nome: "Monocomando Cozinha Mega Line",
@@ -617,7 +617,7 @@ export default function handler(req, res) {
     },
     {
       id: 82,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Lançamentos/Monocomando/9.27.0108.18.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0108.18.png",
       Cod: "9.27.0108.18",
       "lancamento": true,
       nome: "Monocomando Cozinha Mega Line",
@@ -626,7 +626,7 @@ export default function handler(req, res) {
     },
     {
       id: 83,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Lançamentos/Monocomando/9.27.0109.18.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0109.18.png",
       Cod: "9.27.0109.18",
       "lancamento": true,
       nome: "Monocomando De Lavatório Alta Square Black Matte",
@@ -635,7 +635,7 @@ export default function handler(req, res) {
     },
     {
       id: 83,
-      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Lançamentos/Monocomando/9.27.0107.18.png",
+      imagem: "https://forusi-api.vercel.app/img/Metais/Linhas/Monocomando/9.27.0107.18.png",
       Cod: "9.27.0107.18",
       "lancamento": true,
       nome: "Monocomando Cozinha Mesa bica Móvel Black Matte",
